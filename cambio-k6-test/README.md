@@ -1,10 +1,10 @@
 # 🧪 Testes de Performance com k6 - Projeto `teste2-qa`
 
-Este projeto tem como objetivo realizar testes de performance para a aplicação de câmbio utilizando a ferramenta **k6**, abrangendo testes de carga (load), fumaça (smoke) e estresse (stress).
+Este projeto tem como objetivo realizar testes de performance para a aplicação de câmbio ExchangeRate API utilizando a ferramenta **k6**, abrangendo testes de carga (load), fumaça (smoke) e estresse (stress).
 
 Os testes foram criados utilizando como base os exemplos oficiais da documentação do [k6](https://k6.io/docs/), adaptados para as necessidades específicas da aplicação.
 
-> Projeto desenvolvido como base para validar a performance e estabilidade da aplicação de câmbio.
+> Projeto desenvolvido como base para validar a performance e estabilidade da aplicação de câmbio ExchangeRate API.
 
 ---
 
@@ -58,7 +58,7 @@ k6 run test-cambio-stress.js
 
 - Código modular e organizado para fácil manutenção e expansão
 
-- A API utilizada para os testes pode ser consultada no endereço: (https://github.com/toddmotto/public-apis) 
+- A aplicação ExchangeRate API utilizada para os testes pode ser consultada no endereço: (https://github.com/toddmotto/public-apis) 
 
 ---
 
