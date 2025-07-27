@@ -19,7 +19,6 @@ cambio-k6-test/
 ├── test-cambio-smoke.js # Script de teste de fumaça (smoke test)
 ├── test-cambio-stress.js # Script de teste de estresse (stress test)
 ├── test-cambio.js # Script geral / base para testes
-package-lock.json
 ```
 
 ---
