@@ -12,9 +12,9 @@ Os testes foram criados utilizando como base os exemplos oficiais da documentaç
 
 ```
 cambio-k6-test/
-├── summary-stress.html # Relatório HTML gerado após o teste de stress
 ├── summary-load.html # Relatório HTML gerado após o teste de carga
 ├── summary-smoke.html # Relatório HTML gerado após o teste de fumaça
+├── summary-stress.html # Relatório HTML gerado após o teste de stress
 ├── test-cambio-load.js # Script de teste de carga (load test)
 ├── test-cambio-smoke.js # Script de teste de fumaça (smoke test)
 ├── test-cambio-stress.js # Script de teste de estresse (stress test)
