@@ -63,6 +63,5 @@ k6 run test-cambio-stress.js
 ---
 
 ## 👩‍💻 Desenvolvido por
-
 **Stella Marques**  
 [GitHub: @StellaMarques06](https://github.com/StellaMarques06)
